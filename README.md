@@ -8,7 +8,7 @@ Simple, standalone Terraform builder for creating Red Hat Linux virtual machines
 
 * Terraform (https://www.terraform.io/)
 * Terraform vSphere Provider (https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs)
-* VMWare (https://www.vmware.com/)
+* VMware (https://www.vmware.com/)
 
 License
 -------
