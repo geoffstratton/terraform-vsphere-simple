@@ -12,7 +12,7 @@ Simple, standalone Terraform builder for creating Red Hat Linux virtual machines
 
 License
 -------
-Apache 2.0
+GNU General Public License v3.0
 
 Author Information
 ------------------
